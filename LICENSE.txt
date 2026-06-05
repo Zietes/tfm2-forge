@@ -1,0 +1,48 @@
+TFM2 Forge — End User License Agreement
+Copyright (c) 2026 Zietes. All rights reserved.
+
+TFM2 Forge ("the Software") is a tool for creating mods for the game
+Teamfight Manager 2. By downloading, installing, or using the Software you
+agree to the terms below.
+
+1. GRANT OF LICENSE
+   You are granted a personal, non-exclusive, non-transferable license to
+   download and use the Software on computers you own or control, for the
+   purpose of creating content for your own legally-owned copy of Teamfight
+   Manager 2.
+
+2. RESTRICTIONS
+   You may NOT, without the prior written permission of the copyright holder:
+     (a) sell, rent, lease, sublicense, or otherwise commercialize the Software;
+     (b) redistribute, repackage, or publish the Software or any part of it,
+         whether modified or unmodified;
+     (c) reverse engineer, decompile, or disassemble the Software except to the
+         extent expressly permitted by applicable law;
+     (d) remove or alter any copyright, trademark, or author-credit notices.
+
+3. YOUR CONTENT
+   Champions, mods, art, and other content you create with the Software are
+   yours. This license does not claim any ownership over what you make.
+
+4. GAME ASSETS
+   The Software reads data and art from your own installed copy of Teamfight
+   Manager 2 to help you build mods. The Software does not include, bundle, or
+   redistribute any Teamfight Manager 2 game assets. See NOTICE.txt.
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THIS IS AN ALPHA
+   RELEASE AND MAY CONTAIN BUGS.
+
+6. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR ITS USE,
+   INCLUDING ANY DAMAGE TO GAME FILES, SAVES, OR MODS. ALWAYS BACK UP YOUR
+   GAME AND MODS FOLDER.
+
+7. TERMINATION
+   This license terminates automatically if you breach any of its terms.
+
+This Software is not affiliated with, authorized, or endorsed by TeamSamoyed,
+the developer of Teamfight Manager 2.
