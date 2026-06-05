@@ -1,4 +1,12 @@
-# Normalize line endings across platforms
+# Normalize line endings for text files across platforms
 * text=auto
 *.md text
 *.txt text
+
+# Treat binary assets as binary (never touch line endings)
+*.png binary
+*.gif binary
+*.jpg binary
+*.ico binary
+*.exe binary
+*.zip binary
