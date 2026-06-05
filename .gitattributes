@@ -1,0 +1,4 @@
+# Normalize line endings across platforms
+* text=auto
+*.md text
+*.txt text
