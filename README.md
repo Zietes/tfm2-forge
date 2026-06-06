@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Zietes/tfm2-forge/releases/latest"><img src="https://img.shields.io/badge/latest-v0.1.6-ff9a4d" alt="Latest release v0.1.6"></a>
+  <a href="https://github.com/Zietes/tfm2-forge/releases/latest"><img src="https://img.shields.io/badge/latest-v0.1.7-ff9a4d" alt="Latest release v0.1.7"></a>
   &nbsp;<img src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-3b4252" alt="Windows 10 / 11">
   &nbsp;<img src="https://img.shields.io/badge/status-Alpha-ff9a4d" alt="Alpha">
 </p>
